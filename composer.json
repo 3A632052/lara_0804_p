@@ -1,0 +1,12 @@
+{
+    "name": "b0010/lara_0804_p",
+    "authors": [
+        {
+            "name": "3A632052",
+            "email": "s3A632052@student.ncut.edu.tw"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
+}
